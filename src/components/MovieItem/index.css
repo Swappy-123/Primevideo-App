@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.trigger-button {
+ padding: 8px 15px 8px 15px;
+ margin: 8px;
+ background-color: transparent;
+ border: none;
+ border-radius: 4px;
+ outline: none;
+}
+.popup-container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+}

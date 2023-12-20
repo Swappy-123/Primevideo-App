@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.img {
+  height: 30vh;
+  width: 100%;
+}
+
+.head {
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 36px;
+  margin: 5px;
+}
